@@ -113,6 +113,9 @@ as.im.RasterLayer <- function(x){ .raster_to_im(x) }
 # Format rasters
 ##################################################
 
+dir.create("data-raw/australia", showWarnings = FALSE)
+dir.create("data/australia", showWarnings = FALSE)
+
 states <- c("Victoria")
 
 eastern_states <- rnaturalearth::ne_states(country = "Australia",
