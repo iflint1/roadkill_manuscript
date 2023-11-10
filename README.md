@@ -1,5 +1,5 @@
 # Supplementary Materials
-## Maximising the informativeness of new records in spatial sampling design (2023), Methods in Ecology and Evolution
+## Maximising the informativeness of new records in spatial sampling design (2023), *Methods in Ecology and Evolution.*
 ### Ian Flint, Chung-Huey Wu, Roozbeh Valavi, Wan-Jyun Chen, and Te-En Lin
 
 This repository reproduces our results from the Supplementary Materials of our manuscript on **Maximising the informativeness of new records in spatial sampling design** (2023) published in the Methods in Ecology and Evolution journal.
